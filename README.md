@@ -1,7 +1,7 @@
 # KiddoHero
 Click to play: https://faiprod.itch.io/kiddo-hero
 
-A simple game where a kiddo tries his very best to avoid the very things which he fears in his life. i.e. Anger, Vegetable, Failure and Insects.
+A simple game where a kiddo tries his very best to avoid the very things which he fears in his life. i.e. Anger, Vegetable, Failure & Insects.
 
 Left/Right arrow keys to control the player movement. Spacebar to dash.
 
