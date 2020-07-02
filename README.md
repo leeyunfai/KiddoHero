@@ -11,6 +11,7 @@ Left/Right arrow keys to control the player movement. Spacebar to dash.
 - Coded using C# and Unity 2D Game Engine to produce a working PC-compatible 2D Game.
 
 **If intending to clone:**
+
 Download the additional "Library" folder. I was unable to add it into Github due to exceeding the 100MB limit:
 https://drive.google.com/drive/folders/1rwJYnqIHfAdIJzP92j2ZK2M6K2b_k4DQ?usp=sharing
 
