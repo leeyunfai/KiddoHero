@@ -15,3 +15,4 @@ Left/Right arrow keys to control the player movement. Spacebar to dash.
 Download the additional "Library" folder. I was unable to add it into Github due to it exceeding the 100MB limit:
 https://drive.google.com/drive/folders/1rwJYnqIHfAdIJzP92j2ZK2M6K2b_k4DQ?usp=sharing
 
+**Disclaimer : The source code that was used to implement the coursework project is no longer maintained. There may be errors or bugs that did not exist at the time of creation.**
